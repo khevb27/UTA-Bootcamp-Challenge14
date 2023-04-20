@@ -61,6 +61,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - [Built Using](#built-using)
 - [Preview](#preview)
 - [Links](#links)
+- [Credits](#credits)
 - [License](#license)
 
 ----------------------------------------------------------------------
@@ -95,7 +96,11 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 <img src= "assets/images/C14 Screenshot 3.png"/>
 <img src= "assets/images/C14 Screenshot 4.png"/>
 
-#
+## Credits
+
+This project was worked on in collaboration with:
+- Erin Peifer: https://github.com/Airen22
+- Code template credits: UTA Coding Bootcamp Mini-Project Crowdfunding App
 
 ## Links
 
